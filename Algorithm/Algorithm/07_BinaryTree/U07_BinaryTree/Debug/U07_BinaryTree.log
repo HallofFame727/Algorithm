@@ -1,0 +1,5 @@
+﻿  Operator.cpp
+W:\KKS\2021_12_1600\2021_12_UE4\U07_DataStructure\07_BinaryTree\U07_BinaryTree\Operator.cpp(53,32): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+W:\KKS\2021_12_1600\2021_12_UE4\U07_DataStructure\07_BinaryTree\U07_BinaryTree\Operator.cpp(65,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+W:\KKS\2021_12_1600\2021_12_UE4\U07_DataStructure\07_BinaryTree\U07_BinaryTree\Operator.cpp(70): warning C4715: 'Calc': not all control paths return a value
+  U07_BinaryTree.vcxproj -> W:\KKS\2021_12_1600\2021_12_UE4\U07_DataStructure\07_BinaryTree\Debug\U07_BinaryTree.exe

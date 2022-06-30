@@ -1,0 +1,12 @@
+﻿  BytePadding.cpp
+C:\Users\J.H\Desktop\VSC\List\List\BytePadding.cpp(13,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\J.H\Desktop\VSC\List\List\BytePadding.cpp(13,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\J.H\Desktop\VSC\List\List\BytePadding.cpp(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\J.H\Desktop\VSC\List\List\BytePadding.cpp(23,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\J.H\Desktop\VSC\List\List\BytePadding.cpp(33,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\J.H\Desktop\VSC\List\List\BytePadding.cpp(33,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\J.H\Desktop\VSC\List\List\BytePadding.cpp(14,7): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+  List.cpp
+  코드를 생성하고 있습니다...
+List.obj : error LNK2005: main이(가) BytePadding.obj에 이미 정의되어 있습니다.
+C:\Users\J.H\Desktop\VSC\List\x64\Debug\List.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
